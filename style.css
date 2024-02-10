@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background: rgb(234,255,0);
+    background: linear-gradient(90deg, rgba(234,255,0,1) 0%, rgba(237,35,11,1) 100%, rgba(255,0,0,1) 100%);
+}
+
+.heading{
+width: 90%;
+height: 50px;
+margin: 5px;
+font-size: 50px;
+background-color: transparent;
+border: none;
+  /* Specific pixel value (6px) */
+  p.px-wide {
+    letter-spacing: 6px;
+  }
+}
+
+.Main-Web-Btns{
+    text-align: center;
+
+}
+
+.button{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #00ff2f; /* Blue color */
+    color: white;
+    border: none;
+    border-radius: 8px; /* Adjust the value for roundness */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+    ;
+
+    width: 150px;
+}
+
+.button:hover {
+    background-color: #017607; /* Darker blue on hover */
+    text-decoration: none;
+
+}
+
+  
